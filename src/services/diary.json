@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "date": "2023-12-01",
+      "weather": "rainy",
+      "visibility": "great",
+      "comment": "A beautiful sunny day, perfect for outdoor activities."
+    },
+    {
+      "id": 2,
+      "date": "2023-12-02",
+      "weather": "rainy",
+      "visibility": "great",
+      "comment": "A bit cloudy today, but still nice for a walk."
+    },
+    {
+      "id": 3,
+      "date": "2023-12-03",
+      "weather": "rainy",
+      "visibility": "great",
+      "comment": "It's raining heavily today, staying indoors and reading a book."
+    },
+    {
+      "id": 4,
+      "date": "2023-12-04",
+      "weather": "rainy",
+      "visibility": "great",
+      "comment": "First snowfall of the season, enjoying the winter wonderland."
+    },
+    {
+      "id": 5,
+      "date": "2023-12-05",
+      "weather": "rainy",
+      "visibility": "great",
+      "comment": "The fog is quite dense, taking extra caution while driving."
+    }
+]
+  
